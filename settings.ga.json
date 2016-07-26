@@ -1,0 +1,21 @@
+{
+    "public": {
+        "ga": {
+            "id": "UA-75180777-1",
+            "create": {
+                "cookieDomain": "172.24.2.247",
+                "cookieName": "my_ga_cookie",
+                "cookieExpires": 3600
+            },
+            "set": {
+                "forceSSL": true,
+                "anonymizeIp": true
+            },
+            "require": {
+                "displayfeatures": true,
+                "linkid": "linkid.js"
+            },
+            "trackUserId": true
+        }
+    }
+}

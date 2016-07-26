@@ -1,0 +1,17 @@
+{
+    "apn": {
+        "passphrase": "alea",
+        "key": "alea_dev_push_key.pem",
+        "cert": "alea_dev_push_cert.pem",
+        "gateway": "gateway.sandbox.push.apple.com"
+    },
+    "gcm": {
+        "apiKey": "AIzaSyBfPpxASIyOu9u_0K64U-l1TjehrEfV5SY",
+        "projectNumber": 1083558769681
+    },
+    "production": false,
+    "badge": true,
+    "sound": true,
+    "alert": true,
+    "vibrate": true
+}
