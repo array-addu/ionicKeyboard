@@ -1,0 +1,56 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+meteoric:ionic
+meteoric:ionic-sass
+meteoric:ionicons-sass
+iron:router
+meteoric:autoform-ionic
+materialize:materialize
+useraccounts:materialize
+aldeed:autoform
+accounts-password
+aldeed:collection2
+keryi:meteor-dcaccordion
+maazalik:highcharts
+maazalik:highcharts-gauge
+gildaspk:autoform-materialize
+d0minikk:materialize-meteor
+grigio:materialize-sass
+#yong:meteor-videojs
+momentjs:moment
+manuelschoebel:wait-on-lib
+mdg:reload-on-resume
+mdg:camera
+gwendall:body-events
+pascoual:pdfjs
+raix:push
+fortawesome:fontawesome
+dandv:jquery-rateit
+mfpierre:chartist-js
+ecwyne:mathjs
+amdingo:lettering-js
+shake:shake
+launch-screen
+
+#ground:db
+richsilv:owl-carousel
+reywood:iron-router-ga
+
+standard-minifiers
+meteor-base
+mobile-experience
+mongo
+blaze-html-templates
+session
+jquery
+tracker
+logging
+reload
+random
+ejson
+spacebars
+check
